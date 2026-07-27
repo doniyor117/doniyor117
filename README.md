@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ Introducing Myself
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/doniyor117/doniyor117/blob/assets/profile_banner20260727.png)
-Hi, I'm Doniyor. Data analyst with hands-on experience in Python, SQL, and Power BI. I'm comfortable writing queries, cleaning and analyzing data, and building dashboards to help teams make data-driven decisions.
+Hi, I'm Doniyor. Data analyst with hands-on experience in Python, SQL, and Power BI. I'm comfortable with writing queries, cleaning and analyzing data, and building dashboards to help teams make data-driven decisions.
 
 - Writing SQL queries to explore, clean, and analyze data - from simple lookups to multi-table joins and aggregations.
 - Cleaning and preparing messy datasets in Python (pandas).
