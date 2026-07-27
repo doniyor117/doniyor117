@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **doniyor117/doniyor117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## 🙋‍♂️ Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner]()
+![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/doniyor117/doniyor117/blob/assets/profile_banner20260727.png)
 Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
 
 - Querying data using SQL.
