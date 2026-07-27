@@ -25,7 +25,7 @@ Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, qu
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects]().
 
 ### 🛠️ Tools
 
