@@ -25,7 +25,7 @@ Hi, I'm Doniyor. Data analyst with hands-on experience in Python, SQL, and Power
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects]().
+Welcome to my portfolio, where I showcase my [projects](https://github.com/doniyor117/portfolio).
 
 ### 🛠️ Tools
 
